@@ -1,0 +1,45 @@
+body{
+margin: 10px;
+padding: 0;
+}
+h1{
+font-size: 40px;
+text-align: center;
+padding: 50px;
+}
+.bloc-img{
+position:relative;
+top: 0px;
+text-align: center;
+background-color: rgb(243, 151, 108);
+height: 250px;
+width:auto;
+}
+img{
+padding: 50px;
+}
+.version{
+width: 100%;
+display: flex;
+justify-content: space-between;
+padding: 30px 0;
+}
+.old-version,
+.new-version{
+width: 25%;
+padding: 25px;
+margin: 20px 60px 0px 60px;
+border-radius: 30px;
+box-shadow: 2px 2px 8px black;
+background-color: #f3976c;
+}
+a{
+text-decoration: none;
+color: black;
+font-size: 20px;
+font-weight: 400;
+}
+.old-version:hover,
+.new-version:hover{
+box-shadow: 5px 5px 10px black;
+}
