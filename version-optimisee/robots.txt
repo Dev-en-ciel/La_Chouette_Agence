@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://dev-en-ciel.github.io/la-chouette-agence/version-optimisee/sitemap.xml
