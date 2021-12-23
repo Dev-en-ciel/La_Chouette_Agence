@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://dev-en-ciel.github.io/la-chouette-agence/version-optimisee/sitemap.xml
